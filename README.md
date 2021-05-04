@@ -1,8 +1,13 @@
 
 <p align="center" justifyContent='center' >
-<img src="assets/adaptive-icon.png" width="60" height="60"/>
+<img src="assets/adaptive-icon.png" 
+width="80" height="80"/>
 </p>
 
+### <p align="center" >PLANTMANAGER</p>
+---
+
+<br>
 
 Projeto Plantmanager foi desenvolvido durante imersão da NLW da Rocketseat. NLW é um evento online com muito código, desafios, networking e um único objetivo: ir para o próximo nível.  
 
@@ -10,7 +15,7 @@ Projeto Plantmanager foi desenvolvido durante imersão da NLW da Rocketseat. NLW
 <br>
 
 
-<img src="src/assets/plantmanager.gif" width="414" height="736" />
+<img src="src/assets/plantmanager.gif" width="414" height="736"/>
 
 <br>
 -
