@@ -9,7 +9,7 @@ width="80" height="80"/>
 
 <br>
 
-Projeto Plantmanager foi desenvolvido durante imersão da NLW da Rocketseat. NLW é um evento online com muito código, desafios, networking e um único objetivo: ir para o próximo nível.  
+Projeto Plantmanager foi desenvolvido durante imersão React Native na NLW da Rocketseat. NLW é um evento online com muito código, desafios, networking e um único objetivo: ir para o próximo nível.  
 
 <br>
 <br>
@@ -29,7 +29,7 @@ Programação é um universo infinito, por isso ter foco é o primeiro passo.
 
 ### Tecnologias
 ---
-* [React](https://expo.io/)
+* [React](https://pt-br.reactjs.org/)
 * [React Native](https://reactnative.dev/)
 * [Typescript](https://www.typescriptlang.org/)
 * [Expo](https://expo.io/)
